@@ -1,15 +1,15 @@
 # 👋 ¡Hola! Soy Alex
 
-### 💻 Desarrollador en formación | Apasionado por el Desarrollo Web, Ciberseguridad y Machine Learning
+### 💻 Desarrollador en formación | Apasionado por el Backend, Ciberseguridad y Machine Learning
 
 ---
 
 ## 🚀 Sobre mí
 
 - 🎓 Actualmente estudio Ingeniería en Sistemas (4to semestre)
-- 🧠 Aprendiendo: Django
+- 🧠 Actualmente aprendiendo: Django
 - 🛠️ Herramientas favoritas: Git, GitHub, Render
-- 🌐 Me gusta crear aplicaciones web que pueda personalizar a mi estilo
+- 🌐 Me gusta crear aplicaciones web en las que pueda agregar mi toque personal
 - 🔐 Me interesa el desarrollo backend, ciberseguridad y Machine Learning
 
 ---
