@@ -1,16 +1,16 @@
 # 👋 ¡Hola! Soy Alex
 
-### 💻 Desarrollador en formación | Apasionado por Python, Django y la programación web
+### 💻 Desarrollador en formación | Apasionado por el Desarrollo Web, Ciberseguridad y Machine Learning
 
 ---
 
 ## 🚀 Sobre mí
 
 - 🎓 Actualmente estudio Ingeniería en Sistemas (4to semestre)
-- 🧠 Aprendiendo: 
-- 🛠️ Herramientas favoritas: VS Code, Git, GitHub, Render
-- 🌐 Me gusta crear aplicaciones web que resuelvan problemas reales
-- 🔐 Me interesa el desarrollo backend, seguridad y despliegue en la nube
+- 🧠 Aprendiendo: Django
+- 🛠️ Herramientas favoritas: Git, GitHub, Render
+- 🌐 Me gusta crear aplicaciones web que pueda personalizar a mi estilo
+- 🔐 Me interesa el desarrollo backend, ciberseguridad y Machine Learning
 
 ---
 
@@ -18,11 +18,10 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| **Administrador de contraseñas** | CRUD web para guardar contraseñas con login | Django, SQLite, Bootstrap |
-| **Orange.buy** | Sistema de registro de usuarios tipo ecommerce | Django, HTML/CSS, GitHub Pages |
-| **Ideas de proyecto** | App para guardar ideas con estados visuales | Django, TailwindCSS |
+| **Administrador de contraseñas** | CRUD web para guardar contraseñas con login | Django, HTML/CSS |
+| **Orange.buy** | Sistema de registro de usuarios tipo ecommerce | Django, HTML/CSS |
 
-👉 Mira todos mis proyectos en mi [GitHub](https://github.com/tu-usuario)
+👉 Mira todos mis proyectos en mi [GitHub](https://github.com/ingGibran)
 
 ---
 
@@ -44,8 +43,8 @@
 
 ## 📫 Contacto
 
-- ✉️ Email: tuemail@example.com  
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- ✉️ Email: zaga1709@hotmail.com
+- 💼 LinkedIn: [linkedin.com/in/tu-perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alejandro-gibr%C3%A1n-zavala-gonz%C3%A1lez-517384358/))
 
 ---
 
