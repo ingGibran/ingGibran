@@ -38,7 +38,7 @@
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingGibran&show_icons=true&theme=tokyonight)
 
 ---
 
