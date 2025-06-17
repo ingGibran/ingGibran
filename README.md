@@ -44,7 +44,7 @@
 ## 📫 Contacto
 
 - ✉️ Email: zaga1709@hotmail.com
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alejandro-gibr%C3%A1n-zavala-gonz%C3%A1lez-517384358/))
+- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alejandro-gibr%C3%A1n-zavala-gonz%C3%A1lez-517384358/)
 
 ---
 
