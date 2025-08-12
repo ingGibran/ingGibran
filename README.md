@@ -1,13 +1,15 @@
-# ¡Hola!, Soy Alejandro Gibrán 👋
-- Soy estudiante de Ingeniería en Sistemas Computacionales.
-- Me gusta el Desarrollo Web y la Ciencia de Datos.
-- Me apasiona la tecnología y los avances científicos.
+# ¡Hola, soy Alejandro Gibrán! 👋💻  
 
+🎓 **Estudiante de Ingeniería en Sistemas Computacionales**  
+💡 Apasionado por **Desarrollo Web** y **Ciencia de Datos**  
+🚀 Amante de la **tecnología** y los **avances científicos**  
 
-## 🖥️ Tecnologias
+---
+
+## 🚀 Tecnologías y Herramientas  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,django,flask,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,django,flask,sqlite,git,github&perline=10" />
   </a>
 </p>
 
