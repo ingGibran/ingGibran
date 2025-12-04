@@ -22,18 +22,6 @@ Here are some of the key technologies I work with:
 
 ---
 
-### ✨ Key Projects (Check out my Repositories)
-
-* **Ideas Blog Platform** (Personal Project)
-    * Built with **Python** and **Django**.
-    * Platform for users to create posts, react, comment, and share ideas.
-* **Survey Management Desktop App** (Academic Project)
-    * Developed in **Java**, **Swing**, and **MySQL**.
-    * Desktop application with role-based access to create, share, and review surveys.
-* **Password Manager** (Personal Project)
-    * **CRUD** web application using **Django** for secure password storage and management.
-
----
 
 ### 🎓 Experience & Activities
 
