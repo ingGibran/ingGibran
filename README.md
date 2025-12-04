@@ -4,42 +4,34 @@
 
 Currently pursuing a B.Eng. in Computer Systems Engineering at Instituto Tecnológico de Morelia. I am focused on building robust systems and deploying Machine Learning models.
 
-I specialize in **Linux-based environments** 🐧 and have hands-on experience with modern backend frameworks.
-
----
-
-### 🚀 Professional Profile
-
-* **Focus:** Backend development and Machine Learning with **Python** 🐍 and **Java** ☕.
-* **Experience:** Building CRUD applications, REST APIs, and desktop tools.
-* **Interests:** Deploying ML models to production and constantly learning modern tools for AI and backend development.
+I specialize in **Linux-based environments** and have hands-on experience with modern backend frameworks.
 
 ---
 
 ### 🛠️ Technical Skills
 
+Here are some of the key technologies I work with:
+
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | Python 🐍, Java ☕, SQL, JavaScript, HTML, CSS, JSON |
-| **Frameworks** | Django, Django REST Framework, FastAPI, Spring Boot 🍃, Bootstrap |
-| **ML & Data** | NumPy, pandas 🐼, scikit-learn, Matplotlib, pytest |
-| **Databases**| MySQL 🐬, PostgreSQL 🐘, SQLite, MariaDB |
-| **Tools** | Git, Docker 🐳, Linux 🐧, VS Code, PyCharm, IntelliJ IDEA, Jupyter Notebook 📓 |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-FF5733?style=for-the-badge&labelColor=092E20) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) |
+| **ML/Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Databases**| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 ---
 
 ### ✨ Key Projects (Check out my Repositories)
 
 * **Ideas Blog Platform** (Personal Project)
-    * Built with **Python** 🐍 and **Django**.
+    * Built with **Python** and **Django**.
     * Platform for users to create posts, react, comment, and share ideas.
 * **Survey Management Desktop App** (Academic Project)
-    * Developed in **Java** ☕, **Swing**, and **MySQL**.
+    * Developed in **Java**, **Swing**, and **MySQL**.
     * Desktop application with role-based access to create, share, and review surveys.
 * **Password Manager** (Personal Project)
     * **CRUD** web application using **Django** for secure password storage and management.
-* **PDF Compressor Script** (Personal Project)
-    * **Python** script to automate PDF compression and reduce file size.
 
 ---
 
@@ -49,8 +41,8 @@ I specialize in **Linux-based environments** 🐧 and have hands-on experience w
     * Developed the frontend of an internal system (SIGO).
     * Maintained and updated existing systems using Java and Python.
 * **Python Instructor:** Taught a 2-week online Python course.
-* **Competitive Programming:** Regular participant in national contests, practicing algorithms in Python and Java.
-* **Student Chapters:** Active member of AI 🤖, Algorithms, and Innovation chapters.
+* **Competitive Programming:** Regular participant in TecNM national contests, practicing algorithms in Python and Java.
+* **Student Chapters:** Active member of AI, Algorithms, and Innovation chapters.
 
 ---
 
