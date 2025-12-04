@@ -36,6 +36,6 @@ Here are some of the key technologies I work with:
 
 ### 🌐 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/Alejandro](https://www.linkedin.com/in/alejandro-gibr%C3%A1n-zavala-gonz%C3%A1lez-517384358/))
+* **LinkedIn:** [linkedin.com/in/Alejandro](https://www.linkedin.com/in/alejandro-gibr%C3%A1n-zavala-gonz%C3%A1lez-517384358/)
 * **Portfolio:** [https://portafolio.onrender](https://portafolio-web-ab5z.onrender.com/)
 * **Email:** alegizago@gmail.com | zaga1709@hotmail.com
