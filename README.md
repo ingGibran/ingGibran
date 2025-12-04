@@ -23,7 +23,7 @@ I specialize in **Linux-based environments** 🐧 and have hands-on experience w
 | **Languages** | Python 🐍, Java ☕, SQL, JavaScript, HTML, CSS, JSON |
 | **Frameworks** | Django, Django REST Framework, FastAPI, Spring Boot 🍃, Bootstrap |
 | **ML & Data** | NumPy, pandas 🐼, scikit-learn, Matplotlib, pytest |
-| **Databases**| MySQL, SQLite, PostgreSQL 🐘, MariaDB |
+| **Databases**| MySQL 🐬, PostgreSQL 🐘, SQLite, MariaDB |
 | **Tools** | Git, Docker 🐳, Linux 🐧, VS Code, PyCharm, IntelliJ IDEA, Jupyter Notebook 📓 |
 
 ---
