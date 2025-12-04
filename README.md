@@ -1,18 +1,18 @@
 ## 👋 Hi there! I'm Alejandro Gibrán Zavala González
 
-**Junior Backend & Machine Learning Developer** 💻🧠
+**Junior Backend 💻 & Machine Learning Developer 🧠**
 
-[cite_start]Currently pursuing a B.Eng. in Computer Systems Engineering at Instituto Tecnológico de Morelia[cite: 3, 7, 8]. [cite_start]I am focused on building robust systems and deploying Machine Learning models[cite: 5].
+Currently pursuing a B.Eng. in Computer Systems Engineering at Instituto Tecnológico de Morelia. I am focused on building robust systems and deploying Machine Learning models.
 
-[cite_start]I specialize in **Linux-based environments** and have hands-on experience with modern backend frameworks[cite: 5, 4].
+I specialize in **Linux-based environments** 🐧 and have hands-on experience with modern backend frameworks.
 
 ---
 
 ### 🚀 Professional Profile
 
-* [cite_start]**Focus:** Backend development and Machine Learning using **Python** and **Java**[cite: 3].
-* [cite_start]**Experience:** Building CRUD applications, REST APIs, and desktop tools[cite: 4].
-* [cite_start]**Interests:** Deploying ML models to production and constantly learning modern tools for AI and backend development[cite: 5].
+* **Focus:** Backend development and Machine Learning with **Python** 🐍 and **Java** ☕.
+* **Experience:** Building CRUD applications, REST APIs, and desktop tools.
+* **Interests:** Deploying ML models to production and constantly learning modern tools for AI and backend development.
 
 ---
 
@@ -20,27 +20,43 @@
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, Java, SQL, JavaScript, HTML, CSS, JSON [cite: 22] |
-| **Frameworks** | [cite_start]Django, Django REST Framework, FastAPI, Spring Boot, Bootstrap [cite: 23] |
-| **ML & Data** | [cite_start]NumPy, pandas, scikit-learn, Matplotlib, pytest [cite: 24] |
-| **Databases**| [cite_start]MySQL, SQLite, PostgreSQL, MariaDB [cite: 23] |
-| **Tools** | [cite_start]Git, Docker, Linux, VS Code, PyCharm, IntelliJ IDEA, Jupyter Notebook, Conda, pip, Render [cite: 25] |
+| **Languages** | Python 🐍, Java ☕, SQL, JavaScript, HTML, CSS, JSON |
+| **Frameworks** | Django, Django REST Framework, FastAPI, Spring Boot 🍃, Bootstrap |
+| **ML & Data** | NumPy, pandas 🐼, scikit-learn, Matplotlib, pytest |
+| **Databases**| MySQL, SQLite, PostgreSQL 🐘, MariaDB |
+| **Tools** | Git, Docker 🐳, Linux 🐧, VS Code, PyCharm, IntelliJ IDEA, Jupyter Notebook 📓 |
+
+---
+
+### ✨ Key Projects (Check out my Repositories)
+
+* **Ideas Blog Platform** (Personal Project)
+    * Built with **Python** 🐍 and **Django**.
+    * Platform for users to create posts, react, comment, and share ideas.
+* **Survey Management Desktop App** (Academic Project)
+    * Developed in **Java** ☕, **Swing**, and **MySQL**.
+    * Desktop application with role-based access to create, share, and review surveys.
+* **Password Manager** (Personal Project)
+    * **CRUD** web application using **Django** for secure password storage and management.
+* **PDF Compressor Script** (Personal Project)
+    * **Python** script to automate PDF compression and reduce file size.
 
 ---
 
 ### 🎓 Experience & Activities
 
-* [cite_start]**Software Development Intern @ Citelis** (Jan. 2023 - Aug. 2023) [cite: 10, 11, 14]
-    * [cite_start]Developed the frontend of an internal system (SIGO)[cite: 15].
-    * [cite_start]Maintained and updated existing systems using Java and Python to fix bugs and add new features[cite: 15].
-* [cite_start]**Python Instructor:** Taught a 2-week online Python course through the IEEE SIGHT student chapter[cite: 17].
-* [cite_start]**Competitive Programming:** Regular participant in TecNM national competitive programming contests, practicing algorithms in Python and Java[cite: 18].
-* [cite_start]**Student Chapters:** Active member of AI, Algorithms/Competitive Programming, and Innovation chapters[cite: 19].
+* **Software Development Intern @ Citelis** (Jan. 2023 - Aug. 2023)
+    * Developed the frontend of an internal system (SIGO).
+    * Maintained and updated existing systems using Java and Python.
+* **Python Instructor:** Taught a 2-week online Python course.
+* **Competitive Programming:** Regular participant in national contests, practicing algorithms in Python and Java.
+* **Student Chapters:** Active member of AI 🤖, Algorithms, and Innovation chapters.
 
 ---
 
 ### 🌐 Connect With Me
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/Alejandro](https://linkedin.com/in/Alejandro) [cite: 2]
-* [cite_start]**Portfolio:** [https://portafolio.onrender](https://portafolio.onrender) [cite: 2]
-* [cite_start]**Email:** alegizago@gmail.com [cite: 2]
+* **LinkedIn:** [linkedin.com/in/Alejandro](https://linkedin.com/in/Alejandro)
+* **GitHub:** [github.com/ingGibran](https://github.com/ingGibran)
+* **Portfolio:** [https://portafolio.onrender](https://portafolio.onrender)
+* **Email:** alegizago@gmail.com
