@@ -1,6 +1,6 @@
 ##  Hi there! I'm Alejandro Gibrán Zavala González
 
-**Junior Backend **  & ** Machine Learning Developer **
+** Junior Backend   &  Machine Learning Developer **
 
 Currently pursuing a B.Eng. in Computer Systems Engineering at Instituto Tecnológico de Morelia. I am focused on building robust systems and deploying Machine Learning models.
 
