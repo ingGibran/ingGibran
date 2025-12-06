@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Alejandro Gibrán Zavala González
+##  Hi there! I'm Alejandro Gibrán Zavala González
 
 **Junior Backend 💻 & Machine Learning Developer 🧠**
 
@@ -8,7 +8,7 @@ I specialize in **Linux-based environments** and have hands-on experience with m
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 Here are some of the key technologies I work with:
 
@@ -23,7 +23,7 @@ Here are some of the key technologies I work with:
 ---
 
 
-### 🎓 Experience & Activities
+###  Experience & Activities
 
 * **Software Development Intern @ Citelis** (Jan. 2023 - Aug. 2023)
     * Developed the frontend of an internal system (SIGO).
