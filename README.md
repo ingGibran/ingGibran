@@ -2,9 +2,13 @@
 
 **Junior Backend   &  Machine Learning Developer**
 
-Currently pursuing a B.Eng. in Computer Systems Engineering at Instituto Tecnológico de Morelia. I am focused on building robust systems and deploying Machine Learning models.
+### 👨‍💻 About Me
 
-I specialize in **Linux-based environments** and have hands-on experience with modern backend frameworks.
+I am a passionate developer focused on building production-ready **ML systems** and robust **Backend architectures**. My journey involves designing REST APIs, integrating trained models into web services, and optimizing data pipelines.
+
+- **Currently working as:** Data Analyst Intern at *Citelis*, analyzing business data with Microsoft Dynamics
+- **Learning:** Deepening my knowledge in **Deep Learning**, **ML Deployment**, and **Scalability**.
+- **Community:** I am an active participant in the **Artificial Intelligence Student Chapter** at **Tecnológico de Morelia**. Where I take courses and stay in touch with doctors and experts in the area
 
 ---
 
