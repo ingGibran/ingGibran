@@ -1,7 +1,7 @@
 
 <div align="center">
-    <h1>HELLOOOOOOOOOOOO!</h1>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE0OWx2eTBva2R2aHd0eWk2OHp3MWF1bW52ZnFsNDgzaDF1cHVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" alt="Coding GIF" width="400">
+    <h1>Hello!</h1>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE0OWx2eTBva2R2aHd0eWk2OHp3MWF1bW52ZnFsNDgzaDF1cHVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" alt="Coding GIF" width="300">
 </div>
 
 <h1 align="center">I'm Alejandro! :)</h1>
@@ -12,7 +12,6 @@
   Passionate about delivering high-impact, data-driven solutions through solid engineering and efficient system design.
 </p>
 
----
 
 ## About Me 🐍
 
@@ -23,7 +22,6 @@ I am a Backend and Machine Learning Developer focused on building production-gra
 </div>
 
 
----
 
 ## Tech Stack & Tools 🤖
 
@@ -72,8 +70,6 @@ I am a Backend and Machine Learning Developer focused on building production-gra
 </div>
 
 
----
-
 ## Experience & Activities 🖥️
 
 * **AI Research Project (LLMs in Healthcare):** Currently developing a scientific research project under the guidance of an AI PhD. Focused on designing a reproducible training pipeline for fine-tuned LLMs in the medical domain. Responsibilities include defining rigorous evaluation metrics, systematically testing/improving model accuracy, and actively contributing toward an upcoming research publication.
@@ -84,6 +80,8 @@ I am a Backend and Machine Learning Developer focused on building production-gra
     <br>
     <h2>Thanks 4 stopping by my profile ❤️</h2>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmEyOWh4MnI5N2JoZzlqejJrcXBucmg3aWQ3ZHJmaDdnbWpkMjBseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdva9BUHPIs2SkGk/giphy.gif" alt="Coding GIF" width="200">
+    <br>
+    <h2>⬇️ You can review some of my projects below ⬇️</h2>
 </div>
 
 ⠀⠀⠀⠀⠀
