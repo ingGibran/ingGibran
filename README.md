@@ -1,7 +1,7 @@
 
 <div align="center">
     <h1>Hello!</h1>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE0OWx2eTBva2R2aHd0eWk2OHp3MWF1bW52ZnFsNDgzaDF1cHVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" alt="Coding GIF" width="300">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE0OWx2eTBva2R2aHd0eWk2OHp3MWF1bW52ZnFsNDgzaDF1cHVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" alt="Coding GIF" width="200">
 </div>
 
 <h1 align="center">I'm Alejandro! :)</h1>
@@ -18,7 +18,7 @@
 I am a Backend and Machine Learning Developer focused on building production-grade AI systems. I specialize in designing end-to-end machine learning pipelines—from data processing to deployment. My core strength lies in bridging AI and backend infrastructure, developing scalable APIs, and engineering real-time inference systems. 
 
 <div align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdkMmk2bXhnMnpuMXhmaTV4djhrZXltOWZrOXVobGwzaDZmMGowYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG9fVWJdN41NeiHhzk/giphy.gif" alt="Coding GIF" width="250">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdkMmk2bXhnMnpuMXhmaTV4djhrZXltOWZrOXVobGwzaDZmMGowYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG9fVWJdN41NeiHhzk/giphy.gif" alt="Coding GIF" width="200">
 </div>
 
 
@@ -66,7 +66,7 @@ I am a Backend and Machine Learning Developer focused on building production-gra
 
 <div align="center">
     <br>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFiNHJ5OGpmYnhocjJ2bHpqYXEyd2pwZHhxZmxiZ24wc2w1dHhwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" alt="Coding GIF" width="150">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFiNHJ5OGpmYnhocjJ2bHpqYXEyd2pwZHhxZmxiZ24wc2w1dHhwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" alt="Coding GIF" width="100">
 </div>
 
 
@@ -79,7 +79,7 @@ I am a Backend and Machine Learning Developer focused on building production-gra
 <div align="center">
     <br>
     <h2>Thanks 4 stopping by my profile ❤️</h2>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmEyOWh4MnI5N2JoZzlqejJrcXBucmg3aWQ3ZHJmaDdnbWpkMjBseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdva9BUHPIs2SkGk/giphy.gif" alt="Coding GIF" width="200">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmEyOWh4MnI5N2JoZzlqejJrcXBucmg3aWQ3ZHJmaDdnbWpkMjBseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdva9BUHPIs2SkGk/giphy.gif" alt="Coding GIF" width="150">
     <br>
     <h2>⬇️ You can review some of my projects below ⬇️</h2>
 </div>
