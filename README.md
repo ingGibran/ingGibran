@@ -1,29 +1,30 @@
 
 <div align="center">
-    <h1>Hello!</h1> 
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE0OWx2eTBva2R2aHd0eWk2OHp3MWF1bW52ZnFsNDgzaDF1cHVqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" alt="Coding GIF" width="250">
+    <h1 style="font-size: 45px">Hello!<br>I'm Alejandro Gibrán</h2>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemcwMjh2dXQ1d3hnMjk2eHZ3emRibzRycTcxOTdnaWx5N281M2YxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKvFW0s4ei3ub59Ga2/giphy.gif" alt="Coding GIF" width="300">
 </div>
 
-<h1 align="center">I'm Alejandro! :)</h1>
+<h3 align="center", style="font-size:25px">Computer Systems Engineering Student | Backend & Machine Learning Developer</h3>
 
-<h3 align="center">Computer Systems Engineering Student | Backend & Machine Learning Developer</h3>
-
+<br>
 <p align="center">
-  Passionate about delivering high-impact, data-driven solutions through solid engineering and efficient system design.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E1sD9HYfQXZRrcMkF1/giphy.gif" alt="Coding GIF" width="250", align="left">
+<p style="font-size:30px"><i>Passionate about <strong>Artificial Intelligence</strong> from the deepest development to the most abstract implementation.</p></i>
 </p>
 
 
-## About Me 🐍
+<br><br>
+## About Me
 
 I am a Backend and Machine Learning Developer focused on building production-grade AI systems. I specialize in designing end-to-end machine learning pipelines—from data processing to deployment. My core strength lies in bridging AI and backend infrastructure, developing scalable APIs, and engineering real-time inference systems. 
 
 <div align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdkMmk2bXhnMnpuMXhmaTV4djhrZXltOWZrOXVobGwzaDZmMGowYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG9fVWJdN41NeiHhzk/giphy.gif" alt="Coding GIF" width="250">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iDPv54rvXkkA8/giphy.gif" alt="Coding GIF" width="300">
 </div>
 
 
 
-## Tech Stack & Tools 🤖
+## Tech Stack & Tools
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +67,7 @@ I am a Backend and Machine Learning Developer focused on building production-gra
 
 <div align="center">
     <br>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFiNHJ5OGpmYnhocjJ2bHpqYXEyd2pwZHhxZmxiZ24wc2w1dHhwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" alt="Coding GIF" width="150">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFiNHJ5OGpmYnhocjJ2bHpqYXEyd2pwZHhxZmxiZ24wc2w1dHhwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" alt="Coding GIF" width="200">
     <br>
 </div>
 
@@ -82,7 +83,7 @@ I am a Backend and Machine Learning Developer focused on building production-gra
 <div align="center">
     <br>
     <h2>Thanks 4 stopping by my profile ❤️</h2>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmEyOWh4MnI5N2JoZzlqejJrcXBucmg3aWQ3ZHJmaDdnbWpkMjBseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdva9BUHPIs2SkGk/giphy.gif" alt="Coding GIF" width="200">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHdvem81MnVpMHgyNjFvMThxd25nc2lrZ2k2YmNjNzA0eTFmN2pxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e6TCk164RsBadZv8R5/giphy.gif" alt="Coding GIF" width="250">
     <h2>⬇️ You can review some of my projects below ⬇️</h2>
 </div>
 
