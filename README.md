@@ -1,7 +1,6 @@
 <div align="center">
     <h1>Hello!<br>I'm Alejandro Gibrán</h1>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemcwMjh2dXQ1d3hnMjk2eHZ3emRibzRycTcxOTdnaWx5N281M2YxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKvFW0s4ei3ub59Ga2/giphy.gif" alt="Coding GIF" width="300">
-    
     <h3>Computer Systems Engineering Student | Backend & Machine Learning Developer</h3>
 </div>
 
