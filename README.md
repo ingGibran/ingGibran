@@ -1,19 +1,21 @@
-
 <div align="center">
-    <h1 style="font-size: 45px">Hello!<br>I'm Alejandro Gibrán</h2>
+    <h1>Hello!<br>I'm Alejandro Gibrán</h1>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemcwMjh2dXQ1d3hnMjk2eHZ3emRibzRycTcxOTdnaWx5N281M2YxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKvFW0s4ei3ub59Ga2/giphy.gif" alt="Coding GIF" width="300">
+    
+    <h3>Computer Systems Engineering Student | Backend & Machine Learning Developer</h3>
 </div>
 
-<h3 align="center", style="font-size:25px">Computer Systems Engineering Student | Backend & Machine Learning Developer</h3>
-
 <br>
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E1sD9HYfQXZRrcMkF1/giphy.gif" alt="Coding GIF" width="250", align="left">
-<p style="font-size:30px"><i>Passionate about <strong>Artificial Intelligence</strong> from the deepest development to the most abstract implementation.</p></i>
-</p>
 
+<div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E1sD9HYfQXZRrcMkF1/giphy.gif" alt="Coding GIF" width="250" align="left">
+    <br><br>
+    <p><i>Passionate about <strong>Artificial Intelligence</strong> from the deepest development to the most abstract implementation.</i></p>
+</div>
 
-<br><br>
+<br clear="both">
+<br>
+
 ## About Me
 
 I am a Backend and Machine Learning Developer focused on building production-grade AI systems. I specialize in designing end-to-end machine learning pipelines—from data processing to deployment. My core strength lies in bridging AI and backend infrastructure, developing scalable APIs, and engineering real-time inference systems. 
@@ -21,7 +23,6 @@ I am a Backend and Machine Learning Developer focused on building production-gra
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iDPv54rvXkkA8/giphy.gif" alt="Coding GIF" width="300">
 </div>
-
 
 
 ## Tech Stack & Tools
