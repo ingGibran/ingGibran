@@ -6,15 +6,15 @@
 
 <br>
 
-<div>
-    <div style="padding: 5px" align ="left" >
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E1sD9HYfQXZRrcMkF1/giphy.gif" 
-            alt="Coding GIF" width="250" align="center">
-    </div>
-        <div>
-        <h3><i>Passionate about <strong>Artificial Intelligence</strong> from the deepest development to the most abstract implementation.</i></h3>
-    </div>
+<div align="center">
+    <p><i>Passionate about <strong>Artificial Intelligence</strong> from the deepest development to the most abstract implementation.</i></p>
 </div>
+
+<div style="padding: 5px" align ="center" >
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E1sD9HYfQXZRrcMkF1/giphy.gif" 
+        alt="Coding GIF" width="300" align="center">
+</div>
+
 
 <br clear="both">
 <br>
