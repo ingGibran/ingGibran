@@ -9,7 +9,7 @@
 <div>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E1sD9HYfQXZRrcMkF1/giphy.gif" alt="Coding GIF" width="250" align="left">
     <br><br>
-    <p style="font-size: 30px"><i>Passionate about <strong>Artificial Intelligence</strong> from the deepest development to the most abstract implementation.</i></p>
+    <3 style="font-size: 30px"><i>Passionate about <strong>Artificial Intelligence</strong> from the deepest development to the most abstract implementation.</i></h3>
 </div>
 
 <br clear="both">
