@@ -25,9 +25,13 @@ Computer Systems Engineering student focused on AI and Machine Learning.
 From training deep learning models with PyTorch to deploying them with FastAPI.
 Currently exploring AI research (and occasionally questioning my model’s life choices).
 
+<br>
+
 ## My Every Day
 
 NumPy ➡️ Pandas ➡️ Matplotlib ➡️ Scikit-Learn ➡️ PyTorch ➡️ FastAPI 
+
+<br><br>
 
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iDPv54rvXkkA8/giphy.gif" alt="Coding GIF" width="300">
