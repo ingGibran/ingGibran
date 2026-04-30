@@ -21,7 +21,13 @@
 
 ## About Me
 
-I am a Backend and Machine Learning Developer focused on building production-grade AI systems. I specialize in designing end-to-end machine learning pipelines—from data processing to deployment. My core strength lies in bridging AI and backend infrastructure, developing scalable APIs, and engineering real-time inference systems. 
+Computer Systems Engineering student focused on AI and Machine Learning.
+From training deep learning models with PyTorch to deploying them with FastAPI.
+Currently exploring AI research (and occasionally questioning my model’s life choices).
+
+## My Every Day
+
+NumPy ➡️ Pandas ➡️ Matplotlib ➡️ Scikit-Learn ➡️ PyTorch ➡️ FastAPI 
 
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc1aDU4dXozdnk5Y2FxZXk4cTJoaXJsa3lyOGpyYjhtbDZhcWc4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iDPv54rvXkkA8/giphy.gif" alt="Coding GIF" width="300">
